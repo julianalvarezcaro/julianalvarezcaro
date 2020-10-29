@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/julianalvarezcaro/julianalvarezcaro/blob/main/asFina.jpg?raw=true" width="500" alt="Julián banner">
+<img src="https://github.com/julianalvarezcaro/julianalvarezcaro/blob/main/asFina.jpg?raw=true" width="500" alt="Julián banner" align='center'>
 
 <!--
 **julianalvarezcaro/julianalvarezcaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
