@@ -5,9 +5,11 @@
 </p>
 
 ## My GitHub Stats 📋
-<p align='center'>
+<p align='left'>
  
   [![Julian's github stats](https://github-readme-stats.vercel.app/api?username=julianalvarezcaro&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
+  <p align='right'>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianalvarezcaro&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
