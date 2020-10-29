@@ -7,8 +7,8 @@
 ## My GitHub Stats 📋
 <p align='center'>
  
-  [![Julian's github stats](https://github-readme-stats.vercel.app/api?username=julianalvarezcaro&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianalvarezcaro&bg_color=071A2C&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+  [![Julian's github stats](https://github-readme-stats.vercel.app/api?username=julianalvarezcaro&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianalvarezcaro&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
